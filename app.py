@@ -194,4 +194,4 @@ except:
 
 # Add footer
 st.markdown("---")
-st.markdown("*Built with ❤️ using Streamlit and Scikit-Learn*")
+st.markdown("*Built using Streamlit and Scikit-Learn*")
