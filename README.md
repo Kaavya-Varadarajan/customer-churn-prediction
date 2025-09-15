@@ -1,4 +1,4 @@
-# 📞 Customer Churn Prediction Analysis
+# Customer Churn Prediction Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.8%252B-blue)  
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange)  
@@ -10,13 +10,13 @@ This project implements advanced techniques to handle class imbalance and optimi
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 Customer churn prediction is critical for subscription-based businesses.  
 This project helps identify customers likely to cancel their service, enabling **proactive retention strategies** that are more cost-effective than acquiring new customers.
 
 ---
 
-## 🎯 Key Features
+## Key Features
 - **Advanced Feature Engineering**: Innovative features such as `StabilityScore` and `CostPerTenure`  
 - **Class Imbalance Handling**: Implemented **SMOTE** and class weighting techniques  
 - **Threshold Optimization**: Custom decision boundary instead of the default 0.5  
@@ -25,14 +25,14 @@ This project helps identify customers likely to cancel their service, enabling *
 
 ---
 
-## 📈 Results
+## Results
 - Enhanced churn detection with optimized threshold  
 - Better balance between **precision** and **recall**  
 - Rich evaluation using multiple visualization techniques  
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Python **3.8+**  
