@@ -1,0 +1,32 @@
+# .gitignore
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Dataset (if you don't want to include the large CSV file)
+*.csv
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Model files (if you don't want to include large model files)
+*.h5
+*.model
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
